@@ -1,3 +1,4 @@
+//A program for sum 2 integers
 public class Add{
   public static void main(String[] args){
     StdOut.print("Type the first integer:  ");
